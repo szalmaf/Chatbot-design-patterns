@@ -7,6 +7,8 @@ Cutting edge design patterns for chatbots based on Large Language Models and aut
 
 3. Reflexion - Self-reflecting agent
 
+See [reflexion.py](https://github.com/szalmaf/Chatbot-design-patterns/blob/main/reflexion.py)
+
 4. LATS - Language Agent Tree Search
 
 
