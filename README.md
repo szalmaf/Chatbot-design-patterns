@@ -1,5 +1,7 @@
 # Chatbot-design-patterns
-Cutting edge design patterns for chatbots based on Large Language Models and autonomous decision-making agents
+
+🚧 *Repo under construction...* 🦺
+
 
 1. CoT - Chain-of-Though
 
@@ -15,4 +17,3 @@ See [reflexion.py](https://github.com/szalmaf/Chatbot-design-patterns/blob/main/
 4. LATS - Language Agent Tree Search
 
 
-🚧 *Repo under construction...* 🦺
