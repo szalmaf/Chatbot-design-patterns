@@ -2,6 +2,7 @@
 
 🚧 *Repo under construction...* 🦺
 
+In this repo, the following design patterns are 
 
 1. CoT - Chain-of-Though
 
@@ -16,6 +17,9 @@
 
 
 ## 1. CoT - Chain-of-Though
+
+See [chain_of_thought](https://github.com/szalmaf/Chatbot-design-patterns/blob/main/chain_of_thought_CoT.py)
+
 
 ## 2. ReAct - Reasoning and Acting
 
