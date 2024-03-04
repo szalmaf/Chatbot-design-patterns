@@ -4,7 +4,7 @@
 
 In this repo, the following design patterns are 
 
-1. CoT - Chain-of-Though
+1. CoT - Chain-of-Thought
 
 2. ReAct - Reasoning and Acting
 
