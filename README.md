@@ -18,7 +18,7 @@ In this repo, the following design patterns are
 
 ## 2. Chatbot design patterns
 
-### 2.1. CoT - Chain-of-Though
+### 2.1. CoT - Chain-of-Thought
 
 See [chain_of_thought](https://github.com/szalmaf/Chatbot-design-patterns/blob/main/chain_of_thought_CoT.py)
 
